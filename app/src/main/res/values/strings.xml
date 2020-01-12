@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="tv_name">Beyoncé Giselle Knowles-Carter</string>
+    <string name="yellow_star">Yellow start</string>
+    <string name="description">Beyoncé Giselle Knowles-Carter (born September 4, 1981) is an American singer, songwriter, record producer, and actress.
+        \n\nBorn and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child.
+        \n\nShe rose to fame in the late 1990s as the lead singer of Destiny\'s Child, one of the best-selling girl groups of all time.During Destiny\'s Child\'s hiatus.
+        \n\nBeyoncé made her theatrical film debut with a role in the US box-office number-one Austin Powers in Goldmember (2002) and recorded her first solo album,
+        \nDangerously in Love (2003), which debuted at number one on the US Billboard 200 chart. It also featured the Billboard Hot 100 number-one singles "Crazy in Love" and "Baby Boy".
+        \n\nFollowing the disbandment of Destiny\'s Child in 2006, she released her second solo album, B\'Day, which contained the US number-one single "Irreplaceable" as well as
+        \nthe UK number-one singles "Déjà Vu" and "Beautiful Liar".
+        \n\nBeyoncé continued her acting career with starring roles in The Pink Panther (2006), Dreamgirls (2006), and Obsessed (2009).
+        \n\nHer marriage to rapper Jay-Z and her portrayal of Etta James in Cadillac Records (2008) influenced her third album,
+        \nI Am... Sasha Fierce (2008), which earned a record-setting six Grammy Awards in 2010.
+        \n\nIt spawned the UK number-one single "If I Were a Boy" and the US number-one single "Single Ladies (Put a Ring on It)".
+    </string>
+    <string name="hint_nickname">What\'s your Nickname?</string>
+</resources>
